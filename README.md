@@ -2,7 +2,7 @@
 
 An Intelligent Electronic System Designed for Daily Life 
 
-
+![image](https://github.com/WJsebastian/PortablePresssureMoniter/blob/main/%E5%8A%9F%E8%83%BD%E6%A1%86%E5%9B%BE.png)
 
 # 智能便携腕式血压计
 
